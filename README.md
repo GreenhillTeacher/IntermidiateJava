@@ -1,2 +1,0 @@
-# intermidiateJava
-For my class
