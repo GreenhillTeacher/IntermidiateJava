@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/GreenhillTeacher/JavaIntermediate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Subramanian-Ria/Othello.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\suarezm\IdeaProjects" />
