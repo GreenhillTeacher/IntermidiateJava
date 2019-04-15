@@ -1,0 +1,20 @@
+package com.suarez;
+import javafx.scene.Scene;
+import javafx.stage.Stage;
+import javax.swing.*;
+import static javafx.application.Application.*;
+import javafx.scene.Group;
+import javafx.scene.canvas.Canvas;
+import javafx.scene.canvas.GraphicsContext;
+
+public class JIGRaphicsUtility {
+    public static GraphicsContext setUpGraphics(Stage stage, String title, int height, int width) {
+        stage.setTitle(title);
+        Canvas canvas = new Canvas(height, width);
+        GraphicsContext gc = canvas.getGraphicsContext2D();
+        Group root = new Group(canvas);
+        stage.setScene(new Scene(root));
+        stage.show();
+        return gc;
+    }
+}
