@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/sumanakethu/BegJava.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GreenhillTeacher/BeginningJava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\suarezm\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\suarezm\Documents" />
   </component>
 </application>
